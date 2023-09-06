@@ -1,0 +1,7 @@
+6. ε ∈ L(M) iff the initial state is a final state. Proof: M will halt in its initial state given ε as input. So: (IF)
+If the initial state is a final state, then when M halts in the initial state, it will be in a final state and will
+accept ε as an element of L(M). (ONLY IF) If the initial state is not a final state, then when M halts in the
+initial state, it will reject its input, namely ε. So the only way to accept ε is for the initial state to be a final state
+
+
+
